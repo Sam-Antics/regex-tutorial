@@ -8,7 +8,7 @@
 5. [Other Contributors](#other-contributors)
 
 ## Project Description
-This is a tutorial that explains how the [] regex functions by breaking down each part of the expression and describing what it does.
+This is a tutorial that explains how a password regex functions by breaking down each part of the expression and describing what it does.
 
 ### User Story
 ```
